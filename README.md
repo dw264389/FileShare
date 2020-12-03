@@ -1,7 +1,7 @@
 # 请阅读以下内容，是文件的用途
 
 
-## 1.WiiU模拟器安装相关文件
+## 1.WiiU模拟器安装相关文件 [Wiiu安装教程](https://youtu.be/JDs_W5mbYOw)
 
 Wii U USB Helper 0.6.1.616  &&   USBHelperLauncher-0.17d
 
