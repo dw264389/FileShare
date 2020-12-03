@@ -10,3 +10,8 @@ https://drive.google.com/file/d/1eFeA36Nd1UwqOc4hsPG3_aFggBmjFlW8/view?usp=shari
 ###  nsz  to nsp 文件
 
 keys.txt
+
+
+### 安装模拟器需要的文件
+
+prod.keys
