@@ -15,13 +15,7 @@ keys.txt
 switch模拟器只能识别xci或者 nsp文件，xcz和nsz文件是压缩格式，需要转换 
 
 
-
-
-## 3. 安装模拟器需要的文件 [教程链接](https://youtu.be/rdGEX19PBHE)
-
-prod.keys 
-
-## 4.我以前编译的Switch模拟器 yuzu-canary_Release_2020_07_07
+## 3.我以前编译的Switch模拟器 yuzu-canary_Release_2020_07_07
 
 链接: https://pan.baidu.com/s/1xhXfNqw_JyeUoqf0Omqa7Q 提取码: 1edt 复制这段内容后打开百度网盘手机App，操作更方便哦
  
