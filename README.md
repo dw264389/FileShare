@@ -17,7 +17,9 @@ switch模拟器只能识别xci或者 nsp文件，xcz和nsz文件是压缩格式�
 
 ## 3.我以前编译的Switch模拟器 yuzu-canary_Release_2020_07_07
 
-链接: https://pan.baidu.com/s/1xhXfNqw_JyeUoqf0Omqa7Q 提取码: 1edt 复制这段内容后打开百度网盘手机App，操作更方便哦
+链接:  提取码: 1edt 复制这段内容后打开百度网盘手机App，操作更方便哦
  
 
+## switch模拟器需要的关健文件
 
+prod.keys
